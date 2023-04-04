@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\bin\Debug\ობიექტის გადაცემა დაბრუნება.exe.config
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\bin\Debug\ობიექტის გადაცემა დაბრუნება.exe
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\bin\Debug\ობიექტის გადაცემა დაბრუნება.pdb
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\obj\Debug\ობიექტის გადაცემა დაბრუნება.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\obj\Debug\ობიექტის_გადაცემა_დაბრუნება.Form1.resources
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\obj\Debug\ობიექტის_გადაცემა_დაბრუნება.Properties.Resources.resources
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\obj\Debug\ობიექტის გადაცემა დაბრუნება.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\obj\Debug\ობიექტის გადაცემა დაბრუნება.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\obj\Debug\ობიექტის გადაცემა დაბრუნება.exe
+C:\Users\Student\source\repos\ობიექტის გადაცემა დაბრუნება\obj\Debug\ობიექტის გადაცემა დაბრუნება.pdb
